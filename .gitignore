@@ -1,0 +1,17 @@
+# Binaries & Object files
+*.exe
+*.o
+*.obj
+*.out
+*.log
+
+# Node & Next.js
+node_modules/
+.next/
+.vercel/
+out/
+.env*.local
+
+# OS files
+.DS_Store
+Thumbs.db
